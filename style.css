@@ -1,0 +1,38 @@
+
+		table {
+			border: 5px solid black;
+			margin-top: 10%;
+            margin-left: 25%;
+            margin-bottom: 25%;
+			margin-right: 25%;
+            border-radius: 10%;
+            border-spacing: 2ch;
+            border-width: 5px;
+            
+            border-color: rgb(216, 131, 125);
+            
+		}
+
+		input[type="button"] {
+			width: 100%;
+			padding: 20px 40px;
+			background-color: rgb(136, 198, 209);
+			color: rgba(70, 66, 66, 0.918);
+			font-size: 24px;
+			font-weight: bold;
+			border: none;
+			border-radius: 20px;
+		}
+
+		input[type="text"] {
+			padding: 25px 30px;
+            font-style: initial;
+            color: rgb(95, 96, 97);
+			font-size: 24px;
+			font-weight: bold;
+			border-color: rgb(166, 209, 245);
+			border-radius: 20px;
+            background-color: rgba(219, 231, 226, 0.712);
+			border: 2px solid rgb(235, 164, 164);
+		}
+     
